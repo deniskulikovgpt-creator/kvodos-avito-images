@@ -1,0 +1,1 @@
+# kvodos-avito-images
