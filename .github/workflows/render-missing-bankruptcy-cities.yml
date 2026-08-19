@@ -25,3 +25,4 @@ jobs:
           git add avito/bankruptcy/saratov/*.png avito/bankruptcy/novosibirsk/*.png avito/bankruptcy/ekaterinburg/*.png avito/bankruptcy/omsk/*.png avito/bankruptcy/belgorod/*.png
           git diff --cached --quiet || git commit -m 'Render missing bankruptcy city images'
           git push
+# trigger: 2026-08-19
